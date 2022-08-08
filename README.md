@@ -6,5 +6,5 @@
 - Javascript
 
 ## Proje Linki
-[link](https://github.com/gul-gunel/DigiFistBV-test)
+[link](https://digi-fist-bv-test.vercel.app/)
 
